@@ -3,6 +3,7 @@
 These are the code files for WarwickRSEs OpenMP workshop. Here
 you will find the following:
 
+* A HelloWorld example program in C and Fortran. We'll use this to check you can compile OMP programs in the morning session
 * an Exercises.pdf sheet to work through in the exercises session
 * example code files that go with this sheet
 * a Solutions directory containing example solutions to these
